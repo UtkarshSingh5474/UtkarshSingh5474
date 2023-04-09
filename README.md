@@ -4,7 +4,7 @@ Hey there, I'm Utkarsh - a Computer Science Engineering student by
               day and a Full Stack Developer by night. I've got a bag full of
               tricks, including my expertise in Android development, and I'm
               pretty darn good with machine learning and AI too! Not to mention
-              my technical skills in Google Cloud, AWS, TensorFlow, Java,
+              my technical skills in  Google Cloud, AWS, TensorFlow, Java,C,Kotlin
               Python, Firebase, JavaScript, HTML, CSS, React Native, React,
               Angular, and Unity.
             </p>
