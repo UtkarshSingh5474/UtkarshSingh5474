@@ -10,7 +10,7 @@ Hey there, I'm Utkarsh - a Computer Science Engineering student by
             </p>
             <p>
               I've got a whole bunch of cool projects up my sleeve that cover a
-              variety of domains, from building chatbots to crafting computer
+              variety of domains, from building apps to crafting computer
               vision models. Whether it's developing snazzy mobile apps or
               creating stunning web designs, I'm your go-to guy for all things
               development.
