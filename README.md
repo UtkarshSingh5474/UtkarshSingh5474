@@ -26,6 +26,7 @@ Hey there, I'm Utkarsh - a Computer Science Engineering student by
 [![@utkarsh5474's Holopin board](https://holopin.io/api/user/board?user=utkarsh5474)](https://holopin.io/@utkarsh5474)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshsingh5474&show_icons=true&locale=en" alt="utkarshsingh5474" /></p>
-[![UtkarshSingh5474's GitHub | Stats](https://stats.quine.sh/UtkarshSingh5474/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=UtkarshSingh5474)
-[![UtkarshSingh5474's GitHub | Languages Over Time](https://stats.quine.sh/UtkarshSingh5474/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=UtkarshSingh5474)
-[![UtkarshSingh5474's GitHub | Topics Over Time](https://stats.quine.sh/UtkarshSingh5474/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=UtkarshSingh5474)
+<p>&nbsp;<img align="center" src="https://stats.quine.sh/UtkarshSingh5474/github?theme=dark" alt="utkarshsingh5474" /></p>
+<p>&nbsp;<img align="center" src="https://stats.quine.sh/UtkarshSingh5474/languages-over-time?theme=dark" alt="utkarshsingh5474" /></p>
+<p>&nbsp;<img align="center" src="https://stats.quine.sh/UtkarshSingh5474/topics-over-time?theme=dark" alt="utkarshsingh5474" /></p>
+
